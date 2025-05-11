@@ -42,10 +42,11 @@ Using the raw datra gathered from states. Generate the KPIs after cleaning the r
 2. Use the key columns and objectives above to guide your dashboard or report creation
 3. Refer to the suggested visualizations for inspiration
 
-## Example Visualizations
+##  Visualizations
 
 ### ICU Bed Utilization Distribution
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/19a46caa-36d5-4d48-bebe-c569bc1a0c20)
+
 #### **Interpretation:**
 
 This comparison shows a shift in ICU burden:
@@ -57,8 +58,8 @@ This comparison shows a shift in ICU burden:
 
 This type of distribution insight is valuable for both operational planning and public health evaluation.
 
+![image](https://github.com/user-attachments/assets/d2c6012a-b474-45c6-80ca-e2f33cf51a77)
 
-![image-2.png](attachment:image-2.png)
 #### **Interpretation:**
 
 - Each bar represents the mean number of daily admissions for a specific age group:
@@ -71,7 +72,8 @@ This type of distribution insight is valuable for both operational planning and 
 This type of demographic insight is crucial for data-driven healthcare planning and age-targeted interventions.
 
 ### Correlation Between COVID-19 Admissions by Age Group
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/user-attachments/assets/d4527fd2-92f8-4389-94d2-4f268cacdf3d)
+
 This heatmap displays the Pearson correlation coefficients between COVID-19 hospital admissions for different adult age groups.
 
 #### **Key Insights:**
