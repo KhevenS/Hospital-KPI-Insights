@@ -3,6 +3,11 @@
 ## Project Overview
 Using the raw datra gathered from states. Generate the KPIs after cleaning the raw state data. This project analyzes a hospital Key Performance Indicator (KPI) dataset focused on COVID-19 related metrics. The dataset includes information on ICU and inpatient bed utilization, age-based COVID-19 admissions, and data coverage metrics. The goal is to provide actionable insights for hospital resource management, patient care, and reporting quality.
 
+## Tools Used
+- **Python (Pandas, Matplotlib, Seaborn)**
+- **Jupyter Notebook**
+- Data source: U.S. HealthData.gov
+
 ## Dataset Summary
 ### Started with Raw dataset 
 - **Rows:** 54
@@ -90,9 +95,18 @@ This heatmap displays the Pearson correlation coefficients between COVID-19 hosp
    - Groups labeled as `unknown_coverage` or `unknown_confirmed` show little to no correlation with any defined age group.
    - These likely represent incomplete or miscoded records and may require exclusion or separate handling in modeling tasks.
 
-#### **Conclusion:**
+## Results Summary
+- High ICU occupancy across most facilities
+- Elderly populations (70–79, 80+) had the highest admissions
+- Strong age-based correlation in hospitalization rates
+- Dataset now clean and ready for dashboarding or modeling
 
-This analysis confirms that **age is a strong stratifier** in COVID-19 hospitalization patterns. Age groups should be considered independently or in targeted clusters when designing predictive models, allocating healthcare resources, or creating public health interventions.
+## Repository Contents
+| File | Description |
+|------|-------------|
+| `Hospital_Facilities_Capacity.ipynb` | Main notebook with data analysis |
+| `cleaned_hospital_kpi_dataset.csv` | Final cleaned dataset |
+| (Optional visual exports) | Graph screenshots or reports |
 
 ## Author
 **Khevendra Singh**  
