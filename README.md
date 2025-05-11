@@ -94,5 +94,5 @@ This analysis confirms that **age is a strong stratifier** in COVID-19 hospitali
 
 ## Author
 **Khevendra Singh**  
-Aspiring Data Analyst | Healthcare & BI Focus  
+Healthcare & BI Focus  
 [LinkedIn](https://www.linkedin.com/in/khevendra-singh-a7054b305/) | [Portfolio](2)
