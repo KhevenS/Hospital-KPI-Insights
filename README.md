@@ -106,7 +106,7 @@ This heatmap displays the Pearson correlation coefficients between COVID-19 hosp
 |------|-------------|
 | `Hospital_Facilities_Capacity.ipynb` | Main notebook with data analysis |
 | `cleaned_hospital_kpi_dataset.csv` | Final cleaned dataset |
-| (Optional visual exports) | Graph screenshots or reports |
+| Graph screenshots or reports |
 
 ## Author
 **Khevendra Singh**  
